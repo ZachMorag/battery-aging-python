@@ -1,0 +1,36 @@
+{
+  "rated_capacity_ah": 2.0,
+  "eol_threshold_pct": 80.0,
+  "eol_cycle_estimated": 478,
+  "soh_final_pct": 77.575,
+  "outlier_cycles_flagged": [
+    31,
+    47,
+    67,
+    82,
+    122,
+    140,
+    160,
+    183,
+    203,
+    214,
+    225,
+    248,
+    249,
+    250,
+    292,
+    324,
+    340,
+    380,
+    465,
+    482,
+    484
+  ],
+  "n_outliers_flagged": 21,
+  "params": {
+    "iqr_window": 31,
+    "iqr_k": 1.5,
+    "savgol_window": 21,
+    "savgol_polyorder": 2
+  }
+}

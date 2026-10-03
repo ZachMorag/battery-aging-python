@@ -1,0 +1,27 @@
+{
+  "rated_capacity_ah": 2.0,
+  "eol_threshold_pct": 80.0,
+  "eol_cycle_true": 477,
+  "outlier_cycles_true": [
+    47,
+    67,
+    82,
+    122,
+    160,
+    183,
+    203,
+    214,
+    225,
+    248,
+    250,
+    292,
+    324,
+    340,
+    380,
+    465,
+    482,
+    484
+  ],
+  "noise_sigma_ah": 0.012,
+  "n_cycles": 500
+}
